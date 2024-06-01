@@ -1,0 +1,37 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 23 May 2024 14:48:39 at https://cis.wakavaping.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://cis.wakavaping.com/ -O1 "E:\waka" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+14:48:51	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://shop.app/checkouts/internal/preloads.js?locale=en-HK&shop_id=85577629997
+14:49:36	Error: 	"Not Found" (404) at link https://cis.wakavaping.com/POST (from https://cis.wakavaping.com/)
+14:49:36	Error: 	"Error when decompressing" (-1) at link https://cis.wakavaping.com/cdn (from https://cis.wakavaping.com/)
+14:53:55	Error: 	"Not Found" (404) at link https://cis.wakavaping.com/pages/privacy-policy-cookie-notice (from https://cis.wakavaping.com/)
+14:53:55	Error: 	"Not Found" (404) at link https://cis.wakavaping.com/pages/terms-conditions (from https://cis.wakavaping.com/)
+14:53:58	Error: 	"Not Found" (404) at link https://cis.wakavaping.com/pages/privacy-policy (from https://cis.wakavaping.com/)
+14:53:58	Error: 	"Not Found" (404) at link https://cis.wakavaping.com/pages/terms-of-service (from https://cis.wakavaping.com/)
+14:53:58	Error: 	"Not Found" (404) at link https://cis.wakavaping.com/document.location (from https://cis.wakavaping.com/)
+14:53:58	Error: 	"Not Found" (404) at link https://cis.wakavaping.com/products/POST (from https://cis.wakavaping.com/products/sopro-pa10000)
+14:54:00	Error: 	"Not Found" (404) at link https://cis.wakavaping.com/products/Liquid error (sections/product-selling-point line 20 (from https://cis.wakavaping.com/products/sopro-pa10000)
+14:54:00	Error: 	"Not Found" (404) at link https://cis.wakavaping.com/products/Liquid error (sections/product-selling-point line 27 (from https://cis.wakavaping.com/products/sopro-pa10000)
+14:54:00	Error: 	"Not Found" (404) at link https://cis.wakavaping.com/products/document.location (from https://cis.wakavaping.com/products/sopro-pa10000)
+14:54:00	Error: 	"Not Found" (404) at link https://cis.wakavaping.com/cdn/shopifycloud/shopify/assets/no-image-100-c91dd4bdb56513f2cbf4fc15436ca35e9d4ecd014546c8d421b1aece861dfecf_96x.gif (from https://cis.wakavaping.com/products/sopro-dm8000)
+14:54:00	Error: 	"Not Found" (404) at link https://cis.wakavaping.com/pages/POST (from https://cis.wakavaping.com/pages/dualmesh)
+14:54:00	Error: 	"Not Found" (404) at link https://cis.wakavaping.com/pages/document.location (from https://cis.wakavaping.com/pages/dualmesh)
+14:54:01	Error: 	"Not Found" (404) at link https://cis.wakavaping.com/blogs/POST (from https://cis.wakavaping.com/blogs/instruction)
+14:54:23	Error: 	"Not Found" (404) at link https://cis.wakavaping.com/blogs/document.location (from https://cis.wakavaping.com/blogs/instruction)
+14:55:10	Error: 	"Not Found" (404) at link https://cis.wakavaping.com/account/POST (from https://cis.wakavaping.com/account/login)
+14:55:11	Error: 	"Not Found" (404) at link https://cis.wakavaping.com/account/document.location (from https://cis.wakavaping.com/account/login)
+14:55:11	Error: 	"Not Found" (404) at link https://cis.wakavaping.com/collections/POST (from https://cis.wakavaping.com/collections/10-дней-использования)
+14:55:11	Error: 	"Not Found" (404) at link https://cis.wakavaping.com/collections/document.location (from https://cis.wakavaping.com/collections/10-дней-использования)
+14:55:11	Error: 	"Not Found" (404) at link https://cis.wakavaping.com/assets/sprites-misc-sprites.png (from https://cis.wakavaping.com/cdn/shop/t/2/assets/main-checkpage-index.min.css?v=13049099440519700011705510156)
+14:55:11	Error: 	"Not Found" (404) at link https://cis.wakavaping.com/assets/sprites-misc-sprites2x.png (from https://cis.wakavaping.com/cdn/shop/t/2/assets/main-checkpage-index.min.css?v=13049099440519700011705510156)
+14:55:11	Error: 	"Not Found" (404) at link https://cis.wakavaping.com/cdn/shop/t/2/assets/coupon-checkinfo-upbg.png (from https://cis.wakavaping.com/cdn/shop/t/2/assets/main-checkpage-index.min.css?v=13049099440519700011705510156)
+14:55:11	Error: 	"Not Found" (404) at link https://cis.wakavaping.com/blogs/instruction/POST (from https://cis.wakavaping.com/blogs/instruction/waka-sofit-fa4000-instruction)
+14:55:11	Error: 	"Not Found" (404) at link https://cis.wakavaping.com/blogs/instruction/document.location (from https://cis.wakavaping.com/blogs/instruction/waka-sofit-fa4000-instruction)
+
+HTTrack Website Copier/3.49-2 mirror complete in 6 minutes 32 seconds : 393 links scanned, 367 files written (80091812 bytes overall) [50650561 bytes received at 129210 bytes/sec], 38600123 bytes transferred using HTTP compression in 164 files, ratio 15%, 33.7 requests per connection
+(25 errors, 1 warnings, 0 messages)

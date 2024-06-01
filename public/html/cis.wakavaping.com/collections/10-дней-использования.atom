@@ -1,0 +1,477 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://cis.wakavaping.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://cis.wakavaping.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://cis.wakavaping.com/collections/10-%D0%B4%D0%BD%D0%B5%D0%B9-%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F.atom"/>
+  <title>WAKA-CIS</title>
+  <updated>2024-02-23T02:58:25-05:00</updated>
+  <author>
+    <name>WAKA-CIS</name>
+  </author>
+  <entry>
+    <id>https://cis.wakavaping.com/products/9161242018093</id>
+    <published>2024-02-23T02:58:25-05:00</published>
+    <updated>2024-02-23T02:58:25-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cis.wakavaping.com/products/sopro-dm8000"/>
+    <title>soPro DM8000</title>
+    <s:type></s:type>
+    <s:vendor>GL-WAKA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0855/7762/9997/files/DM8000.png?v=1713171516"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GL-WAKA<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cis.wakavaping.com/products/9161242018093</id>
+      <title>Арбуз</title>
+      <s:price currency="HKD">0.00</s:price>
+      <s:sku>6942108416861</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cis.wakavaping.com/products/9161242018093</id>
+      <title>Вишня</title>
+      <s:price currency="HKD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cis.wakavaping.com/products/9161242018093</id>
+      <title>Арбуз Вишня</title>
+      <s:price currency="HKD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cis.wakavaping.com/products/9161242018093</id>
+      <title>Арбуз Киви</title>
+      <s:price currency="HKD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cis.wakavaping.com/products/9161242018093</id>
+      <title>Киви Маракуйя Гуава</title>
+      <s:price currency="HKD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cis.wakavaping.com/products/9161242018093</id>
+      <title>Черника Малина</title>
+      <s:price currency="HKD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cis.wakavaping.com/products/9161242018093</id>
+      <title>Ягодный Кальян</title>
+      <s:price currency="HKD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cis.wakavaping.com/products/9161242018093</id>
+      <title>Ягодный Микс</title>
+      <s:price currency="HKD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cis.wakavaping.com/products/9161242018093</id>
+      <title>Черника</title>
+      <s:price currency="HKD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cis.wakavaping.com/products/9161241788717</id>
+    <published>2024-02-23T02:57:32-05:00</published>
+    <updated>2024-02-23T02:57:32-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cis.wakavaping.com/products/waka-sopro-dm8000i"/>
+    <title>WAKA soPro DM8000i</title>
+    <s:type>Disposable vape</s:type>
+    <s:vendor>GL-WAKA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0855/7762/9997/files/8000idevicepcblue.png?v=1713170075"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GL-WAKA<br>
+        <strong>Type: </strong>Disposable vape<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>&gt;10 days use</s:tag>
+    <s:tag>DM8000i</s:tag>
+    <s:tag>WAKA soPro</s:tag>
+    <s:variant>
+      <id>https://cis.wakavaping.com/products/9161241788717</id>
+      <title>Вишня</title>
+      <s:price currency="HKD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cis.wakavaping.com/products/9161241788717</id>
+      <title>Черника</title>
+      <s:price currency="HKD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cis.wakavaping.com/products/9161241788717</id>
+      <title>Арбуз</title>
+      <s:price currency="HKD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cis.wakavaping.com/products/9161241788717</id>
+      <title>Арбуз Вишня</title>
+      <s:price currency="HKD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cis.wakavaping.com/products/9161241788717</id>
+      <title>Ягодный Кальян</title>
+      <s:price currency="HKD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cis.wakavaping.com/products/9161241788717</id>
+      <title>Персик Клубника</title>
+      <s:price currency="HKD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cis.wakavaping.com/products/9161241788717</id>
+      <title>Клубника</title>
+      <s:price currency="HKD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cis.wakavaping.com/products/9161241788717</id>
+      <title>Черника Малина Гранат</title>
+      <s:price currency="HKD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cis.wakavaping.com/products/9161241788717</id>
+      <title>Дюшес</title>
+      <s:price currency="HKD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cis.wakavaping.com/products/9161239855405</id>
+    <published>2024-02-23T02:56:26-05:00</published>
+    <updated>2024-02-23T02:56:26-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cis.wakavaping.com/products/sopro-pa10000"/>
+    <title>soPro PA10000</title>
+    <s:type></s:type>
+    <s:vendor>GL-WAKA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0855/7762/9997/products/Side.png?v=1708675017"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GL-WAKA<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>&gt;10 days use</s:tag>
+    <s:variant>
+      <id>https://cis.wakavaping.com/products/9161239855405</id>
+      <title>Малина Арбуз</title>
+      <s:price currency="HKD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cis.wakavaping.com/products/9161239855405</id>
+      <title>Мята</title>
+      <s:price currency="HKD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cis.wakavaping.com/products/9161239855405</id>
+      <title>Арбуз</title>
+      <s:price currency="HKD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cis.wakavaping.com/products/9161239855405</id>
+      <title>Клубника Киви</title>
+      <s:price currency="HKD">0.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cis.wakavaping.com/products/9161239855405</id>
+      <title>Вишня</title>
+      <s:price currency="HKD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cis.wakavaping.com/products/9161239855405</id>
+      <title>Черника Малина</title>
+      <s:price currency="HKD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cis.wakavaping.com/products/9161239855405</id>
+      <title>Киви Маракуйя Гуава</title>
+      <s:price currency="HKD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cis.wakavaping.com/products/9161239855405</id>
+      <title>Виноград Яблоко</title>
+      <s:price currency="HKD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cis.wakavaping.com/products/9161239855405</id>
+      <title>Яблочная Волна</title>
+      <s:price currency="HKD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cis.wakavaping.com/products/9161238905133</id>
+    <published>2024-02-23T02:56:05-05:00</published>
+    <updated>2024-02-23T02:56:05-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cis.wakavaping.com/products/waka-sopro-pa7000"/>
+    <title>WAKA soPro PA7000</title>
+    <s:type></s:type>
+    <s:vendor>GL-WAKA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0855/7762/9997/products/Red.png?v=1708674984"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GL-WAKA<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>&gt;10 days use</s:tag>
+    <s:variant>
+      <id>https://cis.wakavaping.com/products/9161238905133</id>
+      <title>Арбуз</title>
+      <s:price currency="HKD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cis.wakavaping.com/products/9161238905133</id>
+      <title>Черника Малина</title>
+      <s:price currency="HKD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cis.wakavaping.com/products/9161238905133</id>
+      <title>Малина Арбуз</title>
+      <s:price currency="HKD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cis.wakavaping.com/products/9161238905133</id>
+      <title>Клубника Виноград</title>
+      <s:price currency="HKD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cis.wakavaping.com/products/9161238905133</id>
+      <title>Клубника</title>
+      <s:price currency="HKD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cis.wakavaping.com/products/9161238905133</id>
+      <title>Алоэ Виноград</title>
+      <s:price currency="HKD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cis.wakavaping.com/products/9161238905133</id>
+      <title>Лимон Мята</title>
+      <s:price currency="HKD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cis.wakavaping.com/products/9161238905133</id>
+      <title>Ежевичная Волна</title>
+      <s:price currency="HKD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cis.wakavaping.com/products/9161238905133</id>
+      <title>Фруктовая Кислинка</title>
+      <s:price currency="HKD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cis.wakavaping.com/products/9161234612525</id>
+    <published>2024-02-23T02:54:05-05:00</published>
+    <updated>2024-02-23T02:54:05-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cis.wakavaping.com/products/waka-smash"/>
+    <title>WAKA Smash</title>
+    <s:type></s:type>
+    <s:vendor>GL-WAKA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0855/7762/9997/files/SMASH-_Orange_e32228bb-5099-4320-a024-5a7fd986a009.png?v=1713170708"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GL-WAKA<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>&gt;10 days use</s:tag>
+    <s:variant>
+      <id>https://cis.wakavaping.com/products/9161234612525</id>
+      <title>до 6000 затяжек / Вишня</title>
+      <s:price currency="HKD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cis.wakavaping.com/products/9161234612525</id>
+      <title>до 6000 затяжек / Арбуз</title>
+      <s:price currency="HKD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cis.wakavaping.com/products/9161234612525</id>
+      <title>до 6000 затяжек / Клубника Виноград</title>
+      <s:price currency="HKD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cis.wakavaping.com/products/9161234612525</id>
+      <title>до 6000 затяжек / Клубника Малина</title>
+      <s:price currency="HKD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cis.wakavaping.com/products/9161234612525</id>
+      <title>до 6000 затяжек / Мятная Черная Смородина</title>
+      <s:price currency="HKD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cis.wakavaping.com/products/9161234612525</id>
+      <title>до 6000 затяжек / Зеленый Виноград</title>
+      <s:price currency="HKD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cis.wakavaping.com/products/9161234612525</id>
+      <title>до 6000 затяжек / Сочная Черная Смородина</title>
+      <s:price currency="HKD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cis.wakavaping.com/products/9161234612525</id>
+      <title>до 6000 затяжек / Алоэ Виноград</title>
+      <s:price currency="HKD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cis.wakavaping.com/products/9161234612525</id>
+      <title>до 6000 затяжек / Ежевичная Волна</title>
+      <s:price currency="HKD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
