@@ -5,7 +5,10 @@ const Header = () => {
   return (
     <>
       <Head>
-        <link rel="shortcut icon" href="/favicon.ico" />
+        <link
+          rel="shortcut icon"
+          href="https://cis.wakavaping.com/cdn/shop/files/2F59FC0D-D115-45C3-9FC4-2381B1326FE0_32x32.png?v=1705511097"
+        />
       </Head>
       <section
         id="shopify-section-announcement-bar"

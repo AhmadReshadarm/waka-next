@@ -28019,33 +28019,10 @@ button.swiper-pagination-bullet {
   background-color: #080000;
 }
 
-/* ------------------------- sopro pa 10000 ---------------------------- */
+/* veriefy page  */
 
-/* @media (min-width: 800px) {
-        .cursor-image-arrow {
-            cursor: url("//cis.wakavaping.com/cdn/shop/t/2/assets/icon-selling-arrow.svg?v=104495949722390926761705510136"),pointer;
-        }
-        .cursor-image-close {
-            cursor: url("//cis.wakavaping.com/cdn/shop/t/2/assets/icon-gray-close.svg?v=29080233840365160421705510135"),pointer;
-        }
-        .cursor-image-arrow:hover .position-icon,.cursor-image-arrow .position-icon:hover {
-           opacity:0;
-           cursor: url("//cis.wakavaping.com/cdn/shop/t/2/assets/icon-selling-arrow.svg?v=104495949722390926761705510136"),pointer;
-        }
-        .cursor-image-close:hover + .position-icon,.cursor-image-close + .position-icon:hover {
-           opacity:0;
-           cursor: url("//cis.wakavaping.com/cdn/shop/t/2/assets/icon-gray-close.svg?v=29080233840365160421705510135"),pointer; 
-        }
-        .product-sell-pc-bg {
-            background-image:url("Liquid error (sections/product-selling-point line 20): invalid url input");
-            background-repeat:no-repeat;
-            background-size:100% 100%; 
-        }
-    }
-    @media (max-width: 600px) {
-        .product-sell-mb-bg {
-            background-image:url("Liquid error (sections/product-selling-point line 27): invalid url input");
-            background-repeat:no-repeat;
-            background-size:100% 100%; 
-        }
-    } */
+.star {
+  background: url(https://cis.wakavaping.com/cdn/shop/t/2/assets/verify-star.png?v=17820726773820380831705510241)
+    no-repeat top left;
+  background-size: 100% 100%;
+}

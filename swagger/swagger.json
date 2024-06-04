@@ -6861,6 +6861,18 @@
           "type": "number",
           "description": "counter of checked time"
         },
+        "productName": {
+          "type": "string"
+        },
+        "productLine": {
+          "type": "string"
+        },
+        "serialNumber": {
+          "type": "string"
+        },
+        "productCode": {
+          "type": "string"
+        },
         "createdAt": {
           "type": "string",
           "readOnly": true
@@ -6913,7 +6925,9 @@
     "barcodeGen": {
       "properties": {
         "barcodeLenght": "number",
-        "startsWith": "string"
+        "startsWith": "string",
+        "productLine": "array",
+        "productlineName": "string"
       }
     },
     "BrandResponse": {

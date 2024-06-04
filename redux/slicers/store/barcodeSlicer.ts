@@ -36,8 +36,9 @@ export const fetchBarcode = createAsyncThunk<
 >(
   'catalog/fetchBarcode',
   async function (payload, { rejectWithValue }): Promise<any> {
+    let response: any;
     try {
-      const response = await BarcodeService.findByBarcode({
+      response = await BarcodeService.findByBarcode({
         ...payload,
       });
       return response;
@@ -49,7 +50,12 @@ export const fetchBarcode = createAsyncThunk<
 
 export const generateCode = createAsyncThunk<
   Barcode[],
-  { startsWith: string; barcodeLenght: number },
+  {
+    startsWith: string;
+    barcodeLenght: number;
+    productLine: { name: string }[];
+    productlineName: string;
+  },
   { rejectValue: number }
 >(
   'catalog/generateCode',
@@ -81,6 +87,10 @@ export const fetchCodeInExcelFile = createAsyncThunk<
       sheet.columns = [
         { header: 'ID', key: 'id', width: 10 },
         { header: 'Код', key: 'code', width: 50 },
+        { header: 'Наименование товара', key: 'productName', width: 50 },
+        { header: 'Линия продуктов', key: 'productLine', width: 50 },
+        { header: 'серийный номер', key: 'serialNumber', width: 50 },
+        { header: 'Код продукта', key: 'productCode', width: 50 },
         { header: 'Проверено', key: 'checked', width: 30 },
         { header: 'Прилавок', key: 'counter', width: 30 },
         { header: 'Дата создания', key: 'dateCreated', width: 50 },
@@ -91,6 +101,10 @@ export const fetchCodeInExcelFile = createAsyncThunk<
         sheet.addRow({
           id: code.id,
           code: code.code,
+          productName: code.productName,
+          productLine: code.productLine,
+          serialNumber: code.serialNumber,
+          productCode: code.productCode,
           checked: code.checked ? 'Да' : 'Нет',
           counter: code.counter,
           dateCreated: handleDateFormatter(code.createdAt!),
@@ -160,6 +174,9 @@ const barcodeSlicer = createSlice({
     clearError(state) {
       state.error = initialState.error;
     },
+    clearBarcode(state) {
+      state.barcode = initialState.barcode;
+    },
   },
   extraReducers: (builder) => {
     builder
@@ -204,5 +221,6 @@ const barcodeSlicer = createSlice({
       .addCase(fetchCodeInJsonFile.rejected, handleError);
   },
 });
-export const { clearError, clearBarcodes } = barcodeSlicer.actions;
+export const { clearError, clearBarcodes, clearBarcode } =
+  barcodeSlicer.actions;
 export default barcodeSlicer.reducer;

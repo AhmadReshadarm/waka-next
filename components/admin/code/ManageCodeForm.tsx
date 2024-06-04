@@ -8,15 +8,19 @@ import { ManageCodeFields } from './ManageCodeFields.enum';
 import FormItem from '../generalComponents/FormItem';
 import { navigateTo } from 'common/helpers/navigateTo.helper';
 import { Page } from 'routes/constants';
+import { productsNames } from './constants';
+const { Option } = Select;
 type Props = {
   title: string;
   isLoading: boolean;
   isSaveLoading: boolean;
 };
+
 const ManageCodeForm = ({ title, isLoading, isSaveLoading }: Props) => {
   const dispatch = useAppDispatch();
   const router = useRouter();
   const [form] = Form.useForm();
+
   return (
     <>
       <div className={styles.createCategoryHeader}>
@@ -39,7 +43,7 @@ const ManageCodeForm = ({ title, isLoading, isSaveLoading }: Props) => {
               <Input
                 required={true}
                 placeholder="Введите стартовый номер"
-                maxLength={2}
+                maxLength={4}
               />
             }
           />
@@ -54,6 +58,25 @@ const ManageCodeForm = ({ title, isLoading, isSaveLoading }: Props) => {
               />
             }
           />
+          <Form.Item
+            name={ManageCodeFields.ProductLine}
+            label="Выберите родительскую категорию"
+          >
+            <Select
+              // onChange={handleChangeParent(setHasParent)}
+              defaultValue="Не выбрано"
+            >
+              <Option value="">Не выбрано</Option>
+              {productsNames.map((productLine, index) => (
+                <Option
+                  key={`ProductLine-form-${index}`}
+                  value={productLine.productLineName}
+                >
+                  {productLine.productLineName}
+                </Option>
+              ))}
+            </Select>
+          </Form.Item>
           <Form.Item className={styles.createCategoryForm__buttonsStack}>
             <Button
               type="primary"

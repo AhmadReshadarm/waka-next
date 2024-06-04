@@ -98,12 +98,13 @@
     src: url("/html/cis.wakavaping.com/cdn/shop/t/2/assets/SofiaPro-Bold4606.otf?v=111097906247256858071705510216");
     font-display: swap;
   }
-</style><link href="/html/cis.wakavaping.com/cdn/shop/t/2/assets/theme.min2c6e.css?v=166738682801678347261705510229" rel="stylesheet" type="text/css" media="all" />
+</style>
+<link href="/html/cis.wakavaping.com/cdn/shop/t/2/assets/theme.min2c6e.css?v=166738682801678347261705510229" rel="stylesheet" type="text/css" media="all" />
 
 
  
 
-
+<!-- 
 <script>
     try {
         const searchObj = new URLSearchParams(window.self.location.search)
@@ -157,7 +158,8 @@ Shopify.routes.root = "../index.html";</script>
     min-height: 60px;
   }
 }
-</style><script>window.performance && window.performance.mark && window.performance.mark('shopify.content_for_header.end');</script>
+</style>
+<script>window.performance && window.performance.mark && window.performance.mark('shopify.content_for_header.end');</script>
   <link href="https://monorail-edge.shopifysvc.com/" rel="dns-prefetch">
 <script>(function(){if ("sendBeacon" in navigator && "performance" in window) {var session_token = document.cookie.match(/_shopify_s=([^;]*)/);function handle_abandonment_event(e) {var entries = performance.getEntries().filter(function(entry) {return /monorail-edge.shopifysvc.com/.test(entry.name);});if (!window.abandonment_tracked && entries.length === 0) {window.abandonment_tracked = true;var currentMs = Date.now();var navigation_start = performance.timing.navigationStart;var payload = {shop_id: 85577629997,url: window.location.href,navigation_start,duration: currentMs - navigation_start,session_token: session_token && session_token.length === 2 ? session_token[1] : "",page_type: "page"};window.navigator.sendBeacon("https://monorail-edge.shopifysvc.com/v1/produce", JSON.stringify({schema_id: "online_store_buyer_site_abandonment/1.1",payload: payload,metadata: {event_created_at_ms: currentMs,event_sent_at_ms: currentMs}}));}}window.addEventListener('pagehide', handle_abandonment_event);}}());</script>
 <script id="web-pixels-manager-setup">(function e(e,n,a,t,r){var o="function"==typeof BigInt&&-1!==BigInt.toString().indexOf("[native code]")?"modern":"legacy";window.Shopify=window.Shopify||{};var i=window.Shopify;i.analytics=i.analytics||{};var s=i.analytics;s.replayQueue=[],s.publish=function(e,n,a){return s.replayQueue.push([e,n,a]),!0};try{self.performance.mark("wpm:start")}catch(e){}var l=[a,"/wpm","/b",r,o.substring(0,1),".js"].join("");!function(e){var n=e.src,a=e.async,t=void 0===a||a,r=e.onload,o=e.onerror,i=document.createElement("script"),s=document.head,l=document.body;i.async=t,i.src=n,r&&i.addEventListener("load",r),o&&i.addEventListener("error",o),s?s.appendChild(i):l?l.appendChild(i):console.error("Did not find a head or body element to append the script")}({src:l,async:!0,onload:function(){var a=window.webPixelsManager.init(e);n(a);var t=window.Shopify.analytics;t.replayQueue.forEach((function(e){var n=e[0],t=e[1],r=e[2];a.publishCustomEvent(n,t,r)})),t.replayQueue=[],t.publish=a.publishCustomEvent,t.visitor=a.visitor},onerror:function(){var n=e.storefrontBaseUrl.replace(/\/$/,""),a="".concat(n,"/.well-known/shopify/monorail/unstable/produce_batch"),r=JSON.stringify({metadata:{event_sent_at_ms:(new Date).getTime()},events:[{schema_id:"web_pixels_manager_load/2.0",payload:{version:t||"latest",page_url:self.location.href,status:"failed",error_msg:"".concat(l," has failed to load")},metadata:{event_created_at_ms:(new Date).getTime()}}]});try{if(self.navigator.sendBeacon.bind(self.navigator)(a,r))return!0}catch(e){}var o=new XMLHttpRequest;try{return o.open("POST.html",a,!0),o.setRequestHeader("Content-Type","text/plain"),o.send(r),!0}catch(e){console&&console.warn&&console.warn("[Web Pixels Manager] Got an unhandled error while logging a load error.")}return!1}})})({shopId: 85577629997,storefrontBaseUrl: "https://cis.wakavaping.com",cdnBaseUrl: "https://cis.wakavaping.com/cdn",surface: "storefront-renderer",enabledBetaFlags: ["5de24938","3b4293f9"],webPixelsConfigList: [{"id":"shopify-app-pixel","configuration":"{}","eventPayloadVersion":"v1","runtimeContext":"STRICT","scriptVersion":"064","apiClientId":"shopify-pixel","type":"APP","purposes":["ANALYTICS","MARKETING"]},{"id":"shopify-custom-pixel","eventPayloadVersion":"v1","runtimeContext":"LAX","scriptVersion":"064","apiClientId":"shopify-pixel","type":"CUSTOM","purposes":["ANALYTICS","MARKETING"]}],initData: {"cart":null,"checkout":null,"customer":null,"productVariants":[]},},function pageEvents(webPixelsManagerAPI) {webPixelsManagerAPI.publish("page_viewed");},"/html/cis.wakavaping.com/cdn.html","583e40581e2a54fd85447a7a1f80b4585741c34d","b9a2501fwec243f7cpececf9bem73dad667",);</script>  <script>window.ShopifyAnalytics = window.ShopifyAnalytics || {};
@@ -473,7 +475,8 @@ for (var attr in meta) {
       }
     });
   }
-})();</script>
+})();</script> -->
+
 </head>
 
   <body data-template='page.verify'><style data-shopify>
@@ -650,7 +653,7 @@ for (var attr in meta) {
     
   
 
-  
+   
 </announcement-bar>
 
 
@@ -1494,7 +1497,7 @@ for (var attr in meta) {
     <button type="button" class="close btn p-0 border-0 coupon-toast-close ms-2" data-bs-dismiss="alert" aria-label="Close"><svg fill="none" height="24" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg"><g stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><path d="m19 5-14 14"/><path d="m5 5 14 14"/></g></svg></button>
   </div>
 </coupon-alert>
-
+<!--   need to change on loading  -->
 <div class='_site-progress-bar as-site-progress-bar'>
       <div class='progress fade'>
         <div
@@ -1505,7 +1508,8 @@ for (var attr in meta) {
           aria-valuemax='100'
         ></div>
       </div>
-    </div><script>
+    </div>
+    <script>
   // 全局配置注入
   document.documentElement.className = document.documentElement.className.replace('no-js', 'js');
   var theme = {
@@ -1588,7 +1592,9 @@ for (var attr in meta) {
 
 
 </div><div id="shopify-section-template--21921112719661__verify" class="shopify-section verify mb-2 mb-md-3"><link rel='stylesheet' href='/html/cis.wakavaping.com/cdn/shop/t/2/assets/verify-index.mina4a2.css?v=180130588190858845581705510238'>
-<link rel='prefetch' href='../../www.google.com/recaptcha/api.js' as='javascript'><style data-shopify>.star {
+<!-- <link rel='prefetch' href='../../www.google.com/recaptcha/api.js' as='javascript'> -->
+
+<style data-shopify>.star {
     background: url(/html/cis.wakavaping.com/cdn/shop/t/2/assets/verify-starf6e8.png?v=17820726773820380831705510241) no-repeat top left;
     background-size: 100% 100%;
   }</style><custom-verify>
@@ -1673,7 +1679,7 @@ for (var attr in meta) {
           <div class='invalid-feedback lh-sm'>
             Please check the input information is correct or not and enter the 14-digit correct security code.
           </div>
-          <button style='width: 100%' class='btn btn-primary mt-3' type='submit'>
+          <button style='width: 100%' class='btn btn-primary mt-3 submit-btn-primary' type='submit'>
             Проверка
           </button>
         </form>
@@ -1725,6 +1731,7 @@ for (var attr in meta) {
     tabindex='-1'
     aria-labelledby='successDialog'
     aria-hidden='true'
+  
   >
     <div class='modal-dialog  modal-dialog-centered '>
       <div class='modal-content'>
@@ -2204,7 +2211,7 @@ for (var attr in meta) {
   </div>
 </custom-verify>
 
-<script src='../../www.google.com/recaptcha/api.js'></script>
+<!-- <script src='../../www.google.com/recaptcha/api.js'></script> -->
 <script src='/html/cis.wakavaping.com/cdn/shop/t/2/assets/verify-index.min13e2.js?v=67637961722801498231715944143' defer='defer'></script>
 
 
@@ -3283,6 +3290,7 @@ for (var attr in meta) {
     window.sensors = sensors;</script><script>// Spain Trade Tracker Pixel</script><!--Referral candy-->
 
   <style> .main-product-selling-point > p.mb-4 {margin-top: 24px;} @media (min-width: 575.98px) {.main-product-selling-point > p.mb-4 {margin-top: 70px; }} tbody,td,tfoot,th,thead,tr {border: 1px solid; padding: 4px;} body[data-template="index"] .main-content {background-color: #fff;} </style>
+
 </body>
 
 <!-- Mirrored from cis.wakavaping.com/pages/verify by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 23 May 2024 11:52:31 GMT -->

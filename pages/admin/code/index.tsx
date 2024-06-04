@@ -33,11 +33,12 @@ const codePage = () => {
   const router = useRouter();
 
   const dataSource = barcodes?.map(
-    ({ id, code, checked, counter, createdAt, updatedAt }) => {
+    ({ id, code, productName, checked, counter, createdAt, updatedAt }) => {
       return {
         key: id,
         id,
         code,
+        productName,
         checked: checked ? 'Да' : 'Нет',
         counter,
         createdAt: handleDateFormatter(createdAt!),

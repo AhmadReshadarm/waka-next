@@ -223,12 +223,12 @@ module.exports = {
           '/html/cis.wakavaping.com/blogs/instruction/waka-smash-instruction.html',
       },
       {
-        source: '/pages/verify.html',
-        destination: '/html/cis.wakavaping.com/pages/verify.html',
+        source: '/pages/verify',
+        destination: '/validate',
       },
       {
         source: '/pages/verify.html',
-        destination: '/html/cis.wakavaping.com/pages/verify.html',
+        destination: '/validate',
       },
     ];
   },
