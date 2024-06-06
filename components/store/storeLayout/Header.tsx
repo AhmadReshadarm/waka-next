@@ -330,7 +330,7 @@ const Header = () => {
                                 <li className="position-relative">
                                   <a
                                     className="stretched-link"
-                                    href="/products/waka-sopro-20000"
+                                    href="/products/sopro-pa10000.html"
                                   ></a>
                                   <div className="nav-link drawer-subnav-link d-flex align-items-center py-1">
                                     <figure className="mega-menu-img drawer-mega-menu-img fixed-ratio ratio ratio-1x1 mb-0 overflow-hidden figure-rounded ">
@@ -345,7 +345,7 @@ const Header = () => {
                                         />
                                       </picture>
                                     </figure>
-                                    <div>WAKAsoPro 20000 (20000 тяг)</div>
+                                    <div>WAKAsoPro 10000 (10000 тяг)</div>
                                   </div>
                                 </li>
 

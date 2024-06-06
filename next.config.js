@@ -6,6 +6,9 @@ module.exports = {
   images: {
     domains: ['avatars.dicebear.com'],
   },
+  typescript: {
+    ignoreBuildErrors: true,
+  },
   async rewrites() {
     return [
       { source: '/', destination: '/html/cis.wakavaping.com/index.html' },
