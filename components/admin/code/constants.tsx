@@ -44,31 +44,31 @@ const productsNames = [
     productLineName: 'WAKA-soPro PA10000',
     products: [
       {
-        name: 'WAKA-soPro-PA10000-Малина-Арбуз',
+        name: 'WAKA-soPro-PA10000-Raspberry-Watermelon',
       },
       {
-        name: 'WAKA-soPro-PA10000-Мята',
+        name: 'WAKA-soPro-PA10000-Mint',
       },
       {
-        name: 'WAKA-soPro-PA10000-Арбуз',
+        name: 'WAKA-soPro-PA10000-Watermelon',
       },
       {
-        name: 'WAKA-soPro-PA10000-Клубника-Киви',
+        name: 'WAKA-soPro-PA10000-Strawberry-Kiwi',
       },
       {
-        name: 'WAKA-soPro-PA10000-Вишня',
+        name: 'WAKA-soPro-PA10000-Cherry',
       },
       {
-        name: 'WAKA-soPro-PA10000-Черника-Малина',
+        name: 'WAKA-soPro-PA10000-Blueberry-Raspberry',
       },
       {
-        name: 'WAKA-soPro-PA10000-Киви-Маракуйя-Гуава',
+        name: 'WAKA-soPro-PA10000-Kiwi-Passion Fruit-Guava',
       },
       {
-        name: 'WAKA-soPro-PA10000-Виноград-Яблоко',
+        name: 'WAKA-soPro-PA10000-Grape-Apple',
       },
       {
-        name: 'WAKA-soPro-PA10000-Яблочная-Волна',
+        name: 'WAKA-soPro-PA10000-Apple-Wave',
       },
     ],
   },
@@ -76,31 +76,31 @@ const productsNames = [
     productLineName: 'WAKA soPro DM8000i',
     products: [
       {
-        name: 'WAKA-soPro-DM8000i-Вишня',
+        name: 'WAKA-soPro-DM8000i-Cherry',
       },
       {
-        name: 'WAKA-soPro-DM8000i-Черника',
+        name: 'WAKA-soPro-DM8000i-Blueberry',
       },
       {
-        name: 'WAKA-soPro-DM8000i-Арбуз',
+        name: 'WAKA-soPro-DM8000i-Watermelon',
       },
       {
-        name: 'WAKA-soPro-DM8000i-Арбуз-Вишня',
+        name: 'WAKA-soPro-DM8000i-Watermelon-Cherry',
       },
       {
-        name: 'WAKA-soPro-DM8000i-Ягодный-Кальян',
+        name: 'WAKA-soPro-DM8000i-Berry-Hookah',
       },
       {
-        name: 'WAKA-soPro-DM8000i-Персик-Клубника',
+        name: 'WAKA-soPro-DM8000i-Peach-Strawberry',
       },
       {
-        name: 'WAKA-soPro-DM8000i-Клубника',
+        name: 'WAKA-soPro-DM8000i-Strawberry',
       },
       {
-        name: 'WAKA-soPro-DM8000i-Черника-Малина-Гранат',
+        name: 'WAKA-soPro-DM8000i-Blueberry-Raspberry-Pomegranate',
       },
       {
-        name: 'WAKA-soPro-DM8000i-Дюшес',
+        name: 'WAKA-soPro-DM8000i-Duchess',
       },
     ],
   },
@@ -108,31 +108,31 @@ const productsNames = [
     productLineName: 'soPro DM8000',
     products: [
       {
-        name: 'soPro-DM8000-Арбуз',
+        name: 'soPro-DM8000-Watermelon',
       },
       {
-        name: 'soPro-DM8000-Вишня',
+        name: 'soPro-DM8000-Cherry',
       },
       {
-        name: 'soPro-DM8000-Арбуз-Вишня',
+        name: 'soPro-DM8000-Watermelon-Cherry',
       },
       {
-        name: 'soPro-DM8000-Арбуз-Киви',
+        name: 'soPro-DM8000-Watermelon-Kiwi',
       },
       {
-        name: 'soPro-DM8000-Киви-Маракуйя-Гуава',
+        name: 'soPro-DM8000-Kiwi-Passion Fruit-Guava',
       },
       {
-        name: 'soPro-DM8000-Черника-Малина',
+        name: 'soPro-DM8000-Blueberry-Raspberry',
       },
       {
-        name: 'soPro-DM8000-Ягодный-Кальян',
+        name: 'soPro-DM8000-Berry-Hookah',
       },
       {
-        name: 'soPro-DM8000-Ягодный-Микс',
+        name: 'soPro-DM8000-Berry-Mix',
       },
       {
-        name: 'soPro-DM8000-Черника',
+        name: 'soPro-DM8000-Blueberry',
       },
     ],
   },
@@ -140,31 +140,31 @@ const productsNames = [
     productLineName: 'WAKA soPro PA7000',
     products: [
       {
-        name: 'WAKA-soPro-PA7000-Фруктовая-Кислинка',
+        name: 'WAKA-soPro-PA7000-Fruity-Sourness',
       },
       {
-        name: 'WAKA-soPro-PA7000-Арбуз',
+        name: 'WAKA-soPro-PA7000-Watermelon',
       },
       {
-        name: 'WAKA-soPro-PA7000-Черника-Малина',
+        name: 'WAKA-soPro-PA7000-Blueberry-Raspberry',
       },
       {
-        name: 'WAKA-soPro-PA7000-Малина-Арбуз',
+        name: 'WAKA-soPro-PA7000-Raspberry-Watermelon',
       },
       {
-        name: 'WAKA-soPro-PA7000-Клубника-Виноград',
+        name: 'WAKA-soPro-PA7000-Strawberry-Grapes',
       },
       {
-        name: 'WAKA-soPro-PA7000-Клубника',
+        name: 'WAKA-soPro-PA7000-Strawberry',
       },
       {
-        name: 'WAKA-soPro-PA7000-Алоэ-Виноград',
+        name: 'WAKA-soPro-PA7000-Aloe-Grape',
       },
       {
-        name: 'WAKA-soPro-PA7000-Лимон-Мята',
+        name: 'WAKA-soPro-PA7000-Lemon-Mint',
       },
       {
-        name: 'WAKA-soPro-PA7000-Ежевичная-Волна',
+        name: 'WAKA-soPro-PA7000-Blackberry-Wave',
       },
     ],
   },
@@ -172,31 +172,31 @@ const productsNames = [
     productLineName: 'WAKA Smash',
     products: [
       {
-        name: 'WAKA-Smash-Вишня',
+        name: 'WAKA-Smash-Cherry',
       },
       {
-        name: 'WAKA-Smash-Арбуз',
+        name: 'WAKA-Smash-Watermelon',
       },
       {
-        name: 'WAKA-Smash-Клубника-Виноград',
+        name: 'WAKA-Smash-Strawberry-Grapes',
       },
       {
-        name: 'WAKA-Smash-Клубника-Малина',
+        name: 'WAKA-Smash-Strawberry-Raspberry',
       },
       {
-        name: 'WAKA-Smash-Мятная-Черная-Смородина',
+        name: 'WAKA-Smash-Mint-Black-Currant',
       },
       {
-        name: 'WAKA-Smash-Зеленый-Виноград',
+        name: 'WAKA-Smash-Green-Grape',
       },
       {
-        name: 'WAKA-Smash-Сочная-Черная-Смородина',
+        name: 'WAKA-Smash-Juicy-Black-Currant',
       },
       {
-        name: 'WAKA-Smash-Алоэ-Виноград',
+        name: 'WAKA-Smash-Aloe-Grapes',
       },
       {
-        name: 'WAKA-Smash-Ежевичная-Волна',
+        name: 'WAKA-Smash-Blackberry-Wave',
       },
     ],
   },
@@ -204,28 +204,28 @@ const productsNames = [
     productLineName: 'soFit FA4000',
     products: [
       {
-        name: 'soFit-FA4000-Мята',
+        name: 'soFit-FA4000-Mint',
       },
       {
-        name: 'soFit-FA4000-Клубника-Виноград',
+        name: 'soFit-FA4000-Strawberry-Grapes',
       },
       {
-        name: 'soFit-FA4000-Лимонад-Вишня-Персик',
+        name: 'soFit-FA4000-Lemonade-Cherry-Peach',
       },
       {
-        name: 'soFit-FA4000-Цветочный-Апельсин',
+        name: 'soFit-FA4000-Floral-Orange',
       },
       {
-        name: 'soFit-FA4000-Черника-Малина',
+        name: 'soFit-FA4000-Blueberry-Raspberry',
       },
       {
-        name: 'soFit-FA4000-Виноградная-Волна',
+        name: 'soFit-FA4000-Grape-Wave',
       },
       {
-        name: 'soFit-FA4000-Гранат',
+        name: 'soFit-FA4000-Garnet',
       },
       {
-        name: 'soFit-FA4000-Арбуз',
+        name: 'soFit-FA4000-Watermelon',
       },
     ],
   },
@@ -233,31 +233,31 @@ const productsNames = [
     productLineName: 'Solo2',
     products: [
       {
-        name: 'Solo2-Вишня',
+        name: 'Solo2-Cherry',
       },
       {
-        name: 'Solo2-Арбуз',
+        name: 'Solo2-Watermelon',
       },
       {
-        name: 'Solo2-Черника',
+        name: 'Solo2-Blueberry',
       },
       {
-        name: 'Solo2-Клубника',
+        name: 'Solo2-Strawberry',
       },
       {
-        name: 'Solo2-Черника-Малина',
+        name: 'Solo2-Blueberry-Raspberry',
       },
       {
-        name: 'Solo2-Ягодный-Кальян',
+        name: 'Solo2-Berry-Hookah',
       },
       {
-        name: 'Solo2-Киви-Маракуйя-Гуава',
+        name: 'Solo2-Kiwi-Passion Fruit-Guava',
       },
       {
-        name: 'Solo2-Ягодный-Микс',
+        name: 'Solo2-Berry-Mix',
       },
       {
-        name: 'Solo2-Мята',
+        name: 'Solo2-Mint',
       },
     ],
   },
@@ -265,28 +265,28 @@ const productsNames = [
     productLineName: 'WAKA soFit FA1000',
     products: [
       {
-        name: 'WAKA-soFit-FA1000-Черника-Малина',
+        name: 'WAKA-soFit-FA1000-Blueberry-Raspberry',
       },
       {
-        name: 'WAKA-soFit-FA1000-Манго-Дыня-Алоэ',
+        name: 'WAKA-soFit-FA1000-Mango-Melon-Aloe',
       },
       {
-        name: 'WAKA-soFit-FA1000-Арбуз',
+        name: 'WAKA-soFit-FA1000-Watermelon',
       },
       {
-        name: 'WAKA-soFit-FA1000-Клубника',
+        name: 'WAKA-soFit-FA1000-Strawberry',
       },
       {
-        name: 'WAKA-soFit-FA1000-Черника',
+        name: 'WAKA-soFit-FA1000-Blueberry',
       },
       {
-        name: 'WAKA-soFit-FA1000-Клубника-Киви',
+        name: 'WAKA-soFit-FA1000-Strawberry-Kiwi',
       },
       {
-        name: 'WAKA-soFit-FA1000-Алоэ-Виноград',
+        name: 'WAKA-soFit-FA1000-Aloe-Grape',
       },
       {
-        name: 'WAKA-soFit-FA1000-Двойное-Яблоко',
+        name: 'WAKA-soFit-FA1000-Double-Apple',
       },
     ],
   },
